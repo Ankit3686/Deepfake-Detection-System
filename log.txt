@@ -1,0 +1,833 @@
+START TIME : 22:53:55.51 
+Downloading Microsoft Visual C++ Redistributable ... 
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+Transfer complete.
+Installing Microsoft Visual C++ Redistributable ... 
+Microsoft Visual C++ Redistributable has been installed 
+The detected version of python is 3.11 
+Python version 3.9 not detected at system level 
+python 3.9.8 will be installed since the required version of python does not exist 
+Downloading python 3.9.8 ...  
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 8273k  100 8273k    0     0  10.2M      0 --:--:-- --:--:-- --:--:-- 10.3M
+Installing python 3.9.8 ... 
+x python.exe
+x pythonw.exe
+x python39.dll
+x python3.dll
+x vcruntime140.dll
+x vcruntime140_1.dll
+x LICENSE.txt
+x pyexpat.pyd
+x select.pyd
+x unicodedata.pyd
+x winsound.pyd
+x _asyncio.pyd
+x _bz2.pyd
+x _ctypes.pyd
+x _decimal.pyd
+x _elementtree.pyd
+x _hashlib.pyd
+x _lzma.pyd
+x _msi.pyd
+x _multiprocessing.pyd
+x _overlapped.pyd
+x _queue.pyd
+x _socket.pyd
+x _sqlite3.pyd
+x _ssl.pyd
+x _uuid.pyd
+x _zoneinfo.pyd
+x libcrypto-1_1.dll
+x libffi-7.dll
+x libssl-1_1.dll
+x sqlite3.dll
+x python39.zip
+x python39._pth
+x python.cat
+        1 file(s) moved.
+C:\kandikits\deepfake-detection\3.9.8\libcrypto-1_1.dll
+C:\kandikits\deepfake-detection\3.9.8\libffi-7.dll
+C:\kandikits\deepfake-detection\3.9.8\libssl-1_1.dll
+C:\kandikits\deepfake-detection\3.9.8\LICENSE.txt
+C:\kandikits\deepfake-detection\3.9.8\pyexpat.pyd
+C:\kandikits\deepfake-detection\3.9.8\python.cat
+C:\kandikits\deepfake-detection\3.9.8\python.exe
+C:\kandikits\deepfake-detection\3.9.8\python3.dll
+C:\kandikits\deepfake-detection\3.9.8\python39.dll
+C:\kandikits\deepfake-detection\3.9.8\python39.pth
+C:\kandikits\deepfake-detection\3.9.8\python39.zip
+C:\kandikits\deepfake-detection\3.9.8\pythonw.exe
+C:\kandikits\deepfake-detection\3.9.8\select.pyd
+C:\kandikits\deepfake-detection\3.9.8\sqlite3.dll
+C:\kandikits\deepfake-detection\3.9.8\unicodedata.pyd
+C:\kandikits\deepfake-detection\3.9.8\vcruntime140.dll
+C:\kandikits\deepfake-detection\3.9.8\vcruntime140_1.dll
+C:\kandikits\deepfake-detection\3.9.8\winsound.pyd
+C:\kandikits\deepfake-detection\3.9.8\_asyncio.pyd
+C:\kandikits\deepfake-detection\3.9.8\_bz2.pyd
+C:\kandikits\deepfake-detection\3.9.8\_ctypes.pyd
+C:\kandikits\deepfake-detection\3.9.8\_decimal.pyd
+C:\kandikits\deepfake-detection\3.9.8\_elementtree.pyd
+C:\kandikits\deepfake-detection\3.9.8\_hashlib.pyd
+C:\kandikits\deepfake-detection\3.9.8\_lzma.pyd
+C:\kandikits\deepfake-detection\3.9.8\_msi.pyd
+C:\kandikits\deepfake-detection\3.9.8\_multiprocessing.pyd
+C:\kandikits\deepfake-detection\3.9.8\_overlapped.pyd
+C:\kandikits\deepfake-detection\3.9.8\_queue.pyd
+C:\kandikits\deepfake-detection\3.9.8\_socket.pyd
+C:\kandikits\deepfake-detection\3.9.8\_sqlite3.pyd
+C:\kandikits\deepfake-detection\3.9.8\_ssl.pyd
+C:\kandikits\deepfake-detection\3.9.8\_uuid.pyd
+C:\kandikits\deepfake-detection\3.9.8\_zoneinfo.pyd
+       34 file(s) moved.
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 2574k  100 2574k    0     0  6679k      0 --:--:-- --:--:-- --:--:-- 6756k
+Collecting pip
+  Using cached pip-24.0-py3-none-any.whl.metadata (3.6 kB)
+Collecting setuptools
+  Using cached setuptools-69.5.1-py3-none-any.whl.metadata (6.2 kB)
+Collecting wheel
+  Using cached wheel-0.43.0-py3-none-any.whl.metadata (2.2 kB)
+Using cached pip-24.0-py3-none-any.whl (2.1 MB)
+Using cached setuptools-69.5.1-py3-none-any.whl (894 kB)
+Using cached wheel-0.43.0-py3-none-any.whl (65 kB)
+Installing collected packages: wheel, setuptools, pip
+  WARNING: The script wheel.exe is installed in 'C:\kandikits\python\3.9.8\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+  WARNING: The scripts pip.exe, pip3.9.exe and pip3.exe are installed in 'C:\kandikits\python\3.9.8\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed pip-24.0 setuptools-69.5.1 wheel-0.43.0
+Python installed in path : C:\kandikits\python\3.9.8 
+Path after python installation : C:\kandikits\python\3.9.8;E:\djhd;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk-12.0.2\bin;C:\PHP7;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\CodeBlocks\MinGW\bin;C:\Program Files\Java\jdk-20\bin;D:\btech3rd\Git\cmd;C:\Program Files (x86)\HP\HP OCR\DB_Lib\;C:\Program Files\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;E:\nodejs\;E:\anaconda\condabin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Home\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Home\AppData\Local\Programs\Python\Python311\;C:\Users\Home\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Home\AppData\Local\Programs\Python\Python310\;C:\Users\Home\AppData\Local\Microsoft\WindowsApps;C:\Users\Home\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Home\AppData\Local\GitHubDesktop\bin;C:\Program Files\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;C:\Users\Home\AppData\Roaming\npm 
+Path after custom installation 3.9 
+Installing dependent modules ... 
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+Transfer complete.
+C:\kandikits\python\3.9.8;E:\djhd;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\VMware\VMware Workstation\bin\;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Java\jdk-12.0.2\bin;C:\PHP7;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\WINDOWS\System32\OpenSSH\;C:\MinGW\bin;C:\Program Files\CodeBlocks\MinGW\bin;C:\Program Files\Java\jdk-20\bin;D:\btech3rd\Git\cmd;C:\Program Files (x86)\HP\HP OCR\DB_Lib\;C:\Program Files\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;E:\nodejs\;E:\anaconda\condabin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Home\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Home\AppData\Local\Programs\Python\Python311\;C:\Users\Home\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Home\AppData\Local\Programs\Python\Python310\;C:\Users\Home\AppData\Local\Microsoft\WindowsApps;C:\Users\Home\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Home\AppData\Local\GitHubDesktop\bin;C:\Program Files\HP\Common\HPDestPlgIn\;C:\Program Files (x86)\HP\Common\HPDestPlgIn\;C:\Users\Home\AppData\Roaming\npm 
+Collecting virtualenv
+  Using cached virtualenv-20.26.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting distlib<1,>=0.3.7 (from virtualenv)
+  Using cached distlib-0.3.8-py2.py3-none-any.whl.metadata (5.1 kB)
+Collecting filelock<4,>=3.12.2 (from virtualenv)
+  Using cached filelock-3.13.4-py3-none-any.whl.metadata (2.8 kB)
+Collecting platformdirs<5,>=3.9.1 (from virtualenv)
+  Using cached platformdirs-4.2.1-py3-none-any.whl.metadata (11 kB)
+Using cached virtualenv-20.26.0-py3-none-any.whl (3.9 MB)
+Using cached distlib-0.3.8-py2.py3-none-any.whl (468 kB)
+Using cached filelock-3.13.4-py3-none-any.whl (11 kB)
+Using cached platformdirs-4.2.1-py3-none-any.whl (17 kB)
+Installing collected packages: distlib, platformdirs, filelock, virtualenv
+  WARNING: The script virtualenv.exe is installed in 'C:\kandikits\python\3.9.8\Scripts' which is not on PATH.
+  Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.
+Successfully installed distlib-0.3.8 filelock-3.13.4 platformdirs-4.2.1 virtualenv-20.26.0
+created virtual environment CPython3.9.8.final.0-64 in 144972ms
+  creator CPython3Windows(dest=C:\kandikits\deepfake-detection\deepfake-detection-env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=C:\Users\Home\AppData\Local\pypa\virtualenv)
+    added seed packages: pip==24.0, setuptools==69.5.1, wheel==0.43.0
+  activators BashActivator,BatchActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+C:\kandikits\deepfake-detection\deepfake-detection-env\Scripts 
+C:\kandikits\deepfake-detection 
+Requirement already satisfied: pip in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (24.0)
+Requirement already satisfied: setuptools in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (69.5.1)
+Requirement already satisfied: wheel in c:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages (0.43.0)
+Collecting jupyter==1.0.0 (from -r requirements.txt (line 1))
+  Using cached jupyter-1.0.0-py2.py3-none-any.whl.metadata (995 bytes)
+Collecting gradio==3.39.0 (from -r requirements.txt (line 2))
+  Using cached gradio-3.39.0-py3-none-any.whl.metadata (17 kB)
+Collecting Pillow==9.4.0 (from -r requirements.txt (line 3))
+  Using cached Pillow-9.4.0-cp39-cp39-win_amd64.whl.metadata (9.5 kB)
+Collecting facenet-pytorch==2.5.2 (from -r requirements.txt (line 4))
+  Using cached facenet_pytorch-2.5.2-py3-none-any.whl.metadata (12 kB)
+Collecting torch==1.11.0 (from -r requirements.txt (line 5))
+  Using cached torch-1.11.0-cp39-cp39-win_amd64.whl.metadata (24 kB)
+Collecting opencv-python==4.7.0.72 (from -r requirements.txt (line 6))
+  Using cached opencv_python-4.7.0.72-cp37-abi3-win_amd64.whl.metadata (18 kB)
+Collecting grad-cam==1.4.6 (from -r requirements.txt (line 7))
+  Using cached grad_cam-1.4.6-py3-none-any.whl
+Collecting notebook (from jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached notebook-7.1.3-py3-none-any.whl.metadata (10 kB)
+Collecting qtconsole (from jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached qtconsole-5.5.1-py3-none-any.whl.metadata (5.1 kB)
+Collecting jupyter-console (from jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_console-6.6.3-py3-none-any.whl.metadata (5.8 kB)
+Collecting nbconvert (from jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached nbconvert-7.16.3-py3-none-any.whl.metadata (8.2 kB)
+Collecting ipykernel (from jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached ipykernel-6.29.4-py3-none-any.whl.metadata (6.3 kB)
+Collecting ipywidgets (from jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached ipywidgets-8.1.2-py3-none-any.whl.metadata (2.4 kB)
+Collecting aiofiles<24.0,>=22.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached aiofiles-23.2.1-py3-none-any.whl.metadata (9.7 kB)
+Collecting aiohttp~=3.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached aiohttp-3.9.5-cp39-cp39-win_amd64.whl.metadata (7.7 kB)
+Collecting altair<6.0,>=4.2.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached altair-5.3.0-py3-none-any.whl.metadata (9.2 kB)
+Collecting fastapi (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached fastapi-0.110.2-py3-none-any.whl.metadata (24 kB)
+Collecting ffmpy (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached ffmpy-0.3.2-py3-none-any.whl
+Collecting gradio-client>=0.3.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached gradio_client-0.16.0-py3-none-any.whl.metadata (7.1 kB)
+Collecting httpx (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached httpx-0.27.0-py3-none-any.whl.metadata (7.2 kB)
+Collecting huggingface-hub>=0.14.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached huggingface_hub-0.22.2-py3-none-any.whl.metadata (12 kB)
+Collecting jinja2<4.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached Jinja2-3.1.3-py3-none-any.whl.metadata (3.3 kB)
+Collecting markdown-it-py>=2.0.0 (from markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached markdown_it_py-3.0.0-py3-none-any.whl.metadata (6.9 kB)
+Collecting markupsafe~=2.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached MarkupSafe-2.1.5-cp39-cp39-win_amd64.whl.metadata (3.1 kB)
+Collecting matplotlib~=3.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached matplotlib-3.8.4-cp39-cp39-win_amd64.whl.metadata (5.9 kB)
+Collecting mdit-py-plugins<=0.3.3 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached mdit_py_plugins-0.3.3-py3-none-any.whl.metadata (2.8 kB)
+Collecting numpy~=1.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached numpy-1.26.4-cp39-cp39-win_amd64.whl.metadata (61 kB)
+Collecting orjson~=3.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached orjson-3.10.1-cp39-none-win_amd64.whl.metadata (50 kB)
+Collecting packaging (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached packaging-24.0-py3-none-any.whl.metadata (3.2 kB)
+Collecting pandas<3.0,>=1.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached pandas-2.2.2-cp39-cp39-win_amd64.whl.metadata (19 kB)
+Collecting pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,<3.0.0,>=1.7.4 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached pydantic-2.7.1-py3-none-any.whl.metadata (107 kB)
+Collecting pydub (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached pydub-0.25.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting python-multipart (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached python_multipart-0.0.9-py3-none-any.whl.metadata (2.5 kB)
+Collecting pyyaml<7.0,>=5.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached PyYAML-6.0.1-cp39-cp39-win_amd64.whl.metadata (2.1 kB)
+Collecting requests~=2.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached requests-2.31.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting semantic-version~=2.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached semantic_version-2.10.0-py2.py3-none-any.whl.metadata (9.7 kB)
+Collecting typing-extensions~=4.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached typing_extensions-4.11.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting uvicorn>=0.14.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached uvicorn-0.29.0-py3-none-any.whl.metadata (6.3 kB)
+Collecting websockets<12.0,>=10.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached websockets-11.0.3-cp39-cp39-win_amd64.whl.metadata (6.8 kB)
+Collecting torchvision (from facenet-pytorch==2.5.2->-r requirements.txt (line 4))
+  Using cached torchvision-0.18.0-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+Collecting ttach (from grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached ttach-0.0.3-py3-none-any.whl.metadata (5.2 kB)
+Collecting tqdm (from grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached tqdm-4.66.2-py3-none-any.whl.metadata (57 kB)
+Collecting scikit-learn (from grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached scikit_learn-1.4.2-cp39-cp39-win_amd64.whl.metadata (11 kB)
+Collecting aiosignal>=1.1.2 (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached aiosignal-1.3.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting attrs>=17.3.0 (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached attrs-23.2.0-py3-none-any.whl.metadata (9.5 kB)
+Collecting frozenlist>=1.1.1 (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached frozenlist-1.4.1-cp39-cp39-win_amd64.whl.metadata (12 kB)
+Collecting multidict<7.0,>=4.5 (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached multidict-6.0.5-cp39-cp39-win_amd64.whl.metadata (4.3 kB)
+Collecting yarl<2.0,>=1.0 (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached yarl-1.9.4-cp39-cp39-win_amd64.whl.metadata (32 kB)
+Collecting async-timeout<5.0,>=4.0 (from aiohttp~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached async_timeout-4.0.3-py3-none-any.whl.metadata (4.2 kB)
+Collecting jsonschema>=3.0 (from altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached jsonschema-4.21.1-py3-none-any.whl.metadata (7.8 kB)
+Collecting toolz (from altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached toolz-0.12.1-py3-none-any.whl.metadata (5.1 kB)
+Collecting fsspec (from gradio-client>=0.3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached fsspec-2024.3.1-py3-none-any.whl.metadata (6.8 kB)
+Collecting anyio (from httpx->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached anyio-4.3.0-py3-none-any.whl.metadata (4.6 kB)
+Collecting certifi (from httpx->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached certifi-2024.2.2-py3-none-any.whl.metadata (2.2 kB)
+Collecting httpcore==1.* (from httpx->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached httpcore-1.0.5-py3-none-any.whl.metadata (20 kB)
+Collecting idna (from httpx->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached idna-3.7-py3-none-any.whl.metadata (9.9 kB)
+Collecting sniffio (from httpx->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached sniffio-1.3.1-py3-none-any.whl.metadata (3.9 kB)
+Collecting h11<0.15,>=0.13 (from httpcore==1.*->httpx->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached h11-0.14.0-py3-none-any.whl.metadata (8.2 kB)
+Collecting filelock (from huggingface-hub>=0.14.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached filelock-3.13.4-py3-none-any.whl.metadata (2.8 kB)
+Collecting mdurl~=0.1 (from markdown-it-py>=2.0.0->markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached mdurl-0.1.2-py3-none-any.whl.metadata (1.6 kB)
+Collecting linkify-it-py<3,>=1 (from markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached linkify_it_py-2.0.3-py3-none-any.whl.metadata (8.5 kB)
+Collecting contourpy>=1.0.1 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached contourpy-1.2.1-cp39-cp39-win_amd64.whl.metadata (5.8 kB)
+Collecting cycler>=0.10 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached cycler-0.12.1-py3-none-any.whl.metadata (3.8 kB)
+Collecting fonttools>=4.22.0 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached fonttools-4.51.0-cp39-cp39-win_amd64.whl.metadata (162 kB)
+Collecting kiwisolver>=1.3.1 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached kiwisolver-1.4.5-cp39-cp39-win_amd64.whl.metadata (6.5 kB)
+Collecting pyparsing>=2.3.1 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached pyparsing-3.1.2-py3-none-any.whl.metadata (5.1 kB)
+Collecting python-dateutil>=2.7 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl.metadata (8.4 kB)
+Collecting importlib-resources>=3.2.0 (from matplotlib~=3.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached importlib_resources-6.4.0-py3-none-any.whl.metadata (3.9 kB)
+INFO: pip is looking at multiple versions of mdit-py-plugins to determine which version is compatible with other requirements. This could take a while.
+Collecting mdit-py-plugins<=0.3.3 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached mdit_py_plugins-0.3.2-py3-none-any.whl.metadata (2.8 kB)
+  Using cached mdit_py_plugins-0.3.1-py3-none-any.whl.metadata (2.8 kB)
+  Using cached mdit_py_plugins-0.3.0-py3-none-any.whl.metadata (2.8 kB)
+  Using cached mdit_py_plugins-0.2.8-py3-none-any.whl.metadata (2.8 kB)
+  Using cached mdit_py_plugins-0.2.7-py3-none-any.whl.metadata (2.8 kB)
+  Using cached mdit_py_plugins-0.2.6-py3-none-any.whl.metadata (2.6 kB)
+  Using cached mdit_py_plugins-0.2.5-py3-none-any.whl.metadata (2.6 kB)
+INFO: pip is still looking at multiple versions of mdit-py-plugins to determine which version is compatible with other requirements. This could take a while.
+  Using cached mdit_py_plugins-0.2.4-py3-none-any.whl.metadata (2.6 kB)
+  Using cached mdit_py_plugins-0.2.3-py3-none-any.whl.metadata (2.6 kB)
+  Using cached mdit_py_plugins-0.2.2-py3-none-any.whl.metadata (2.6 kB)
+  Using cached mdit_py_plugins-0.2.1-py3-none-any.whl.metadata (2.6 kB)
+  Using cached mdit_py_plugins-0.2.0-py3-none-any.whl.metadata (2.6 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Using cached mdit_py_plugins-0.1.0-py3-none-any.whl.metadata (2.6 kB)
+Collecting markdown-it-py[linkify]>=2.0.0 (from gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached markdown_it_py-2.2.0-py3-none-any.whl.metadata (6.8 kB)
+Collecting pytz>=2020.1 (from pandas<3.0,>=1.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached pytz-2024.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting tzdata>=2022.7 (from pandas<3.0,>=1.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached tzdata-2024.1-py2.py3-none-any.whl.metadata (1.4 kB)
+Collecting annotated-types>=0.4.0 (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,<3.0.0,>=1.7.4->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached annotated_types-0.6.0-py3-none-any.whl.metadata (12 kB)
+Collecting pydantic-core==2.18.2 (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,<3.0.0,>=1.7.4->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached pydantic_core-2.18.2-cp39-none-win_amd64.whl.metadata (6.7 kB)
+Collecting charset-normalizer<4,>=2 (from requests~=2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached charset_normalizer-3.3.2-cp39-cp39-win_amd64.whl.metadata (34 kB)
+Collecting urllib3<3,>=1.21.1 (from requests~=2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached urllib3-2.2.1-py3-none-any.whl.metadata (6.4 kB)
+INFO: pip is looking at multiple versions of torchvision to determine which version is compatible with other requirements. This could take a while.
+Collecting torchvision (from facenet-pytorch==2.5.2->-r requirements.txt (line 4))
+  Using cached torchvision-0.17.2-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+  Using cached torchvision-0.17.1-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+  Using cached torchvision-0.17.0-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+  Using cached torchvision-0.16.2-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+  Using cached torchvision-0.16.1-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+  Using cached torchvision-0.16.0-cp39-cp39-win_amd64.whl.metadata (6.6 kB)
+  Using cached torchvision-0.15.2-cp39-cp39-win_amd64.whl.metadata (11 kB)
+INFO: pip is still looking at multiple versions of torchvision to determine which version is compatible with other requirements. This could take a while.
+  Using cached torchvision-0.15.1-cp39-cp39-win_amd64.whl.metadata (11 kB)
+  Using cached torchvision-0.14.1-cp39-cp39-win_amd64.whl.metadata (11 kB)
+  Using cached torchvision-0.14.0-cp39-cp39-win_amd64.whl.metadata (11 kB)
+  Using cached torchvision-0.13.1-cp39-cp39-win_amd64.whl.metadata (10 kB)
+  Using cached torchvision-0.13.0-cp39-cp39-win_amd64.whl.metadata (10 kB)
+INFO: This is taking longer than usual. You might need to provide the dependency resolver with stricter constraints to reduce runtime. See https://pip.pypa.io/warnings/backtracking for guidance. If you want to abort this run, press Ctrl + C.
+  Using cached torchvision-0.12.0-cp39-cp39-win_amd64.whl.metadata (10 kB)
+Collecting colorama (from tqdm->grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached colorama-0.4.6-py2.py3-none-any.whl.metadata (17 kB)
+Collecting click>=7.0 (from uvicorn>=0.14.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting starlette<0.38.0,>=0.37.2 (from fastapi->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached starlette-0.37.2-py3-none-any.whl.metadata (5.9 kB)
+Collecting comm>=0.1.1 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached comm-0.2.2-py3-none-any.whl.metadata (3.7 kB)
+Collecting debugpy>=1.6.5 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached debugpy-1.8.1-cp39-cp39-win_amd64.whl.metadata (1.1 kB)
+Collecting ipython>=7.23.1 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached ipython-8.18.1-py3-none-any.whl.metadata (6.0 kB)
+Collecting jupyter-client>=6.1.12 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_client-8.6.1-py3-none-any.whl.metadata (8.3 kB)
+Collecting jupyter-core!=5.0.*,>=4.12 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_core-5.7.2-py3-none-any.whl.metadata (3.4 kB)
+Collecting matplotlib-inline>=0.1 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached matplotlib_inline-0.1.7-py3-none-any.whl.metadata (3.9 kB)
+Collecting nest-asyncio (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached nest_asyncio-1.6.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting psutil (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached psutil-5.9.8-cp37-abi3-win_amd64.whl.metadata (22 kB)
+Collecting pyzmq>=24 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pyzmq-26.0.2-cp39-cp39-win_amd64.whl.metadata (6.1 kB)
+Collecting tornado>=6.1 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached tornado-6.4-cp38-abi3-win_amd64.whl.metadata (2.6 kB)
+Collecting traitlets>=5.4.0 (from ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached traitlets-5.14.3-py3-none-any.whl.metadata (10 kB)
+Collecting widgetsnbextension~=4.0.10 (from ipywidgets->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached widgetsnbextension-4.0.10-py3-none-any.whl.metadata (1.6 kB)
+Collecting jupyterlab-widgets~=3.0.10 (from ipywidgets->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyterlab_widgets-3.0.10-py3-none-any.whl.metadata (4.1 kB)
+Collecting prompt-toolkit>=3.0.30 (from jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached prompt_toolkit-3.0.43-py3-none-any.whl.metadata (6.5 kB)
+Collecting pygments (from jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pygments-2.17.2-py3-none-any.whl.metadata (2.6 kB)
+Collecting beautifulsoup4 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached beautifulsoup4-4.12.3-py3-none-any.whl.metadata (3.8 kB)
+Collecting bleach!=5.0.0 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached bleach-6.1.0-py3-none-any.whl.metadata (30 kB)
+Collecting defusedxml (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached defusedxml-0.7.1-py2.py3-none-any.whl.metadata (32 kB)
+Collecting importlib-metadata>=3.6 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached importlib_metadata-7.1.0-py3-none-any.whl.metadata (4.7 kB)
+Collecting jupyterlab-pygments (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyterlab_pygments-0.3.0-py3-none-any.whl.metadata (4.4 kB)
+Collecting mistune<4,>=2.0.3 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached mistune-3.0.2-py3-none-any.whl.metadata (1.7 kB)
+Collecting nbclient>=0.5.0 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached nbclient-0.10.0-py3-none-any.whl.metadata (7.8 kB)
+Collecting nbformat>=5.7 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
+Collecting pandocfilters>=1.4.1 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pandocfilters-1.5.1-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting tinycss2 (from nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached tinycss2-1.3.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting jupyter-server<3,>=2.4.0 (from notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_server-2.14.0-py3-none-any.whl.metadata (8.4 kB)
+Collecting jupyterlab-server<3,>=2.22.1 (from notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyterlab_server-2.27.1-py3-none-any.whl.metadata (5.9 kB)
+Collecting jupyterlab<4.2,>=4.1.1 (from notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyterlab-4.1.8-py3-none-any.whl.metadata (16 kB)
+Collecting notebook-shim<0.3,>=0.2 (from notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached notebook_shim-0.2.4-py3-none-any.whl.metadata (4.0 kB)
+Collecting qtpy>=2.4.0 (from qtconsole->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached QtPy-2.4.1-py3-none-any.whl.metadata (12 kB)
+Collecting scipy>=1.6.0 (from scikit-learn->grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached scipy-1.13.0-cp39-cp39-win_amd64.whl.metadata (60 kB)
+Collecting joblib>=1.2.0 (from scikit-learn->grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached joblib-1.4.0-py3-none-any.whl.metadata (5.4 kB)
+Collecting threadpoolctl>=2.0.0 (from scikit-learn->grad-cam==1.4.6->-r requirements.txt (line 7))
+  Using cached threadpoolctl-3.4.0-py3-none-any.whl.metadata (13 kB)
+Collecting six>=1.9.0 (from bleach!=5.0.0->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached six-1.16.0-py2.py3-none-any.whl.metadata (1.8 kB)
+Collecting webencodings (from bleach!=5.0.0->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached webencodings-0.5.1-py2.py3-none-any.whl.metadata (2.1 kB)
+Collecting zipp>=0.5 (from importlib-metadata>=3.6->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached zipp-3.18.1-py3-none-any.whl.metadata (3.5 kB)
+Collecting decorator (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached decorator-5.1.1-py3-none-any.whl.metadata (4.0 kB)
+Collecting jedi>=0.16 (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jedi-0.19.1-py2.py3-none-any.whl.metadata (22 kB)
+Collecting stack-data (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached stack_data-0.6.3-py3-none-any.whl.metadata (18 kB)
+Collecting exceptiongroup (from ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached exceptiongroup-1.2.1-py3-none-any.whl.metadata (6.6 kB)
+Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=3.0->altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached jsonschema_specifications-2023.12.1-py3-none-any.whl.metadata (3.0 kB)
+Collecting referencing>=0.28.4 (from jsonschema>=3.0->altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached referencing-0.35.0-py3-none-any.whl.metadata (2.8 kB)
+Collecting rpds-py>=0.7.1 (from jsonschema>=3.0->altair<6.0,>=4.2.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached rpds_py-0.18.0-cp39-none-win_amd64.whl.metadata (4.2 kB)
+Collecting platformdirs>=2.5 (from jupyter-core!=5.0.*,>=4.12->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached platformdirs-4.2.1-py3-none-any.whl.metadata (11 kB)
+Collecting pywin32>=300 (from jupyter-core!=5.0.*,>=4.12->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pywin32-306-cp39-cp39-win_amd64.whl.metadata (6.4 kB)
+Collecting argon2-cffi>=21.1 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached argon2_cffi-23.1.0-py3-none-any.whl.metadata (5.2 kB)
+Collecting jupyter-events>=0.9.0 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_events-0.10.0-py3-none-any.whl.metadata (5.9 kB)
+Collecting jupyter-server-terminals>=0.4.4 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_server_terminals-0.5.3-py3-none-any.whl.metadata (5.6 kB)
+Collecting overrides>=5.0 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached overrides-7.7.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting prometheus-client>=0.9 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached prometheus_client-0.20.0-py3-none-any.whl.metadata (1.8 kB)
+Collecting pywinpty>=2.0.1 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pywinpty-2.0.13-cp39-none-win_amd64.whl.metadata (5.2 kB)
+Collecting send2trash>=1.8.2 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached Send2Trash-1.8.3-py3-none-any.whl.metadata (4.0 kB)
+Collecting terminado>=0.8.3 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached terminado-0.18.1-py3-none-any.whl.metadata (5.8 kB)
+Collecting websocket-client>=1.7 (from jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached websocket_client-1.8.0-py3-none-any.whl.metadata (8.0 kB)
+Collecting async-lru>=1.0.0 (from jupyterlab<4.2,>=4.1.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached async_lru-2.0.4-py3-none-any.whl.metadata (4.5 kB)
+Collecting jupyter-lsp>=2.0.0 (from jupyterlab<4.2,>=4.1.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jupyter_lsp-2.2.5-py3-none-any.whl.metadata (1.8 kB)
+Collecting tomli>=1.2.2 (from jupyterlab<4.2,>=4.1.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached tomli-2.0.1-py3-none-any.whl.metadata (8.9 kB)
+Collecting babel>=2.10 (from jupyterlab-server<3,>=2.22.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached Babel-2.14.0-py3-none-any.whl.metadata (1.6 kB)
+Collecting json5>=0.9.0 (from jupyterlab-server<3,>=2.22.1->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached json5-0.9.25-py3-none-any.whl.metadata (30 kB)
+Collecting uc-micro-py (from linkify-it-py<3,>=1->markdown-it-py[linkify]>=2.0.0->gradio==3.39.0->-r requirements.txt (line 2))
+  Using cached uc_micro_py-1.0.3-py3-none-any.whl.metadata (2.0 kB)
+Collecting fastjsonschema>=2.15 (from nbformat>=5.7->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached fastjsonschema-2.19.1-py3-none-any.whl.metadata (2.1 kB)
+Collecting wcwidth (from prompt-toolkit>=3.0.30->jupyter-console->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached wcwidth-0.2.13-py2.py3-none-any.whl.metadata (14 kB)
+Collecting soupsieve>1.2 (from beautifulsoup4->nbconvert->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached soupsieve-2.5-py3-none-any.whl.metadata (4.7 kB)
+Collecting argon2-cffi-bindings (from argon2-cffi>=21.1->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached argon2_cffi_bindings-21.2.0-cp36-abi3-win_amd64.whl.metadata (6.7 kB)
+Collecting parso<0.9.0,>=0.8.3 (from jedi>=0.16->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached parso-0.8.4-py2.py3-none-any.whl.metadata (7.7 kB)
+Collecting python-json-logger>=2.0.4 (from jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached python_json_logger-2.0.7-py3-none-any.whl.metadata (6.5 kB)
+Collecting rfc3339-validator (from jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached rfc3339_validator-0.1.4-py2.py3-none-any.whl.metadata (1.5 kB)
+Collecting rfc3986-validator>=0.1.1 (from jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached rfc3986_validator-0.1.1-py2.py3-none-any.whl.metadata (1.7 kB)
+Collecting executing>=1.2.0 (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached executing-2.0.1-py2.py3-none-any.whl.metadata (9.0 kB)
+Collecting asttokens>=2.1.0 (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached asttokens-2.4.1-py2.py3-none-any.whl.metadata (5.2 kB)
+Collecting pure-eval (from stack-data->ipython>=7.23.1->ipykernel->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pure_eval-0.2.2-py3-none-any.whl.metadata (6.2 kB)
+Collecting fqdn (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached fqdn-1.5.1-py3-none-any.whl.metadata (1.4 kB)
+Collecting isoduration (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached isoduration-20.11.0-py3-none-any.whl.metadata (5.7 kB)
+Collecting jsonpointer>1.13 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached jsonpointer-2.4-py2.py3-none-any.whl.metadata (2.5 kB)
+Collecting uri-template (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached uri_template-1.3.0-py3-none-any.whl.metadata (8.8 kB)
+Collecting webcolors>=1.11 (from jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached webcolors-1.13-py3-none-any.whl.metadata (2.6 kB)
+Collecting cffi>=1.0.1 (from argon2-cffi-bindings->argon2-cffi>=21.1->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached cffi-1.16.0-cp39-cp39-win_amd64.whl.metadata (1.5 kB)
+Collecting pycparser (from cffi>=1.0.1->argon2-cffi-bindings->argon2-cffi>=21.1->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached pycparser-2.22-py3-none-any.whl.metadata (943 bytes)
+Collecting arrow>=0.15.0 (from isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached arrow-1.3.0-py3-none-any.whl.metadata (7.5 kB)
+Collecting types-python-dateutil>=2.8.10 (from arrow>=0.15.0->isoduration->jsonschema[format-nongpl]>=4.18.0->jupyter-events>=0.9.0->jupyter-server<3,>=2.4.0->notebook->jupyter==1.0.0->-r requirements.txt (line 1))
+  Using cached types_python_dateutil-2.9.0.20240316-py3-none-any.whl.metadata (1.8 kB)
+Using cached jupyter-1.0.0-py2.py3-none-any.whl (2.7 kB)
+Using cached gradio-3.39.0-py3-none-any.whl (19.9 MB)
+Using cached Pillow-9.4.0-cp39-cp39-win_amd64.whl (2.5 MB)
+Using cached facenet_pytorch-2.5.2-py3-none-any.whl (1.9 MB)
+Using cached torch-1.11.0-cp39-cp39-win_amd64.whl (157.9 MB)
+Using cached opencv_python-4.7.0.72-cp37-abi3-win_amd64.whl (38.2 MB)
+Using cached aiofiles-23.2.1-py3-none-any.whl (15 kB)
+Using cached aiohttp-3.9.5-cp39-cp39-win_amd64.whl (371 kB)
+Using cached altair-5.3.0-py3-none-any.whl (857 kB)
+Using cached gradio_client-0.16.0-py3-none-any.whl (314 kB)
+Using cached httpx-0.27.0-py3-none-any.whl (75 kB)
+Using cached httpcore-1.0.5-py3-none-any.whl (77 kB)
+Using cached huggingface_hub-0.22.2-py3-none-any.whl (388 kB)
+Using cached Jinja2-3.1.3-py3-none-any.whl (133 kB)
+Using cached markdown_it_py-2.2.0-py3-none-any.whl (84 kB)
+Using cached mdit_py_plugins-0.3.3-py3-none-any.whl (50 kB)
+Using cached MarkupSafe-2.1.5-cp39-cp39-win_amd64.whl (17 kB)
+Using cached matplotlib-3.8.4-cp39-cp39-win_amd64.whl (7.7 MB)
+Using cached numpy-1.26.4-cp39-cp39-win_amd64.whl (15.8 MB)
+Using cached orjson-3.10.1-cp39-none-win_amd64.whl (138 kB)
+Using cached packaging-24.0-py3-none-any.whl (53 kB)
+Using cached pandas-2.2.2-cp39-cp39-win_amd64.whl (11.6 MB)
+Using cached pydantic-2.7.1-py3-none-any.whl (409 kB)
+Using cached pydantic_core-2.18.2-cp39-none-win_amd64.whl (1.9 MB)
+Using cached PyYAML-6.0.1-cp39-cp39-win_amd64.whl (152 kB)
+Using cached requests-2.31.0-py3-none-any.whl (62 kB)
+Using cached semantic_version-2.10.0-py2.py3-none-any.whl (15 kB)
+Using cached torchvision-0.12.0-cp39-cp39-win_amd64.whl (1.0 MB)
+Using cached tqdm-4.66.2-py3-none-any.whl (78 kB)
+Using cached typing_extensions-4.11.0-py3-none-any.whl (34 kB)
+Using cached uvicorn-0.29.0-py3-none-any.whl (60 kB)
+Using cached websockets-11.0.3-cp39-cp39-win_amd64.whl (124 kB)
+Using cached fastapi-0.110.2-py3-none-any.whl (91 kB)
+Using cached ipykernel-6.29.4-py3-none-any.whl (117 kB)
+Using cached ipywidgets-8.1.2-py3-none-any.whl (139 kB)
+Using cached jupyter_console-6.6.3-py3-none-any.whl (24 kB)
+Using cached nbconvert-7.16.3-py3-none-any.whl (257 kB)
+Using cached notebook-7.1.3-py3-none-any.whl (5.0 MB)
+Using cached pydub-0.25.1-py2.py3-none-any.whl (32 kB)
+Using cached python_multipart-0.0.9-py3-none-any.whl (22 kB)
+Using cached qtconsole-5.5.1-py3-none-any.whl (123 kB)
+Using cached scikit_learn-1.4.2-cp39-cp39-win_amd64.whl (10.6 MB)
+Using cached ttach-0.0.3-py3-none-any.whl (9.8 kB)
+Using cached aiosignal-1.3.1-py3-none-any.whl (7.6 kB)
+Using cached annotated_types-0.6.0-py3-none-any.whl (12 kB)
+Using cached async_timeout-4.0.3-py3-none-any.whl (5.7 kB)
+Using cached attrs-23.2.0-py3-none-any.whl (60 kB)
+Using cached bleach-6.1.0-py3-none-any.whl (162 kB)
+Using cached certifi-2024.2.2-py3-none-any.whl (163 kB)
+Using cached charset_normalizer-3.3.2-cp39-cp39-win_amd64.whl (100 kB)
+Using cached click-8.1.7-py3-none-any.whl (97 kB)
+Using cached comm-0.2.2-py3-none-any.whl (7.2 kB)
+Using cached contourpy-1.2.1-cp39-cp39-win_amd64.whl (182 kB)
+Using cached cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Using cached debugpy-1.8.1-cp39-cp39-win_amd64.whl (4.8 MB)
+Using cached fonttools-4.51.0-cp39-cp39-win_amd64.whl (2.2 MB)
+Using cached frozenlist-1.4.1-cp39-cp39-win_amd64.whl (50 kB)
+Using cached fsspec-2024.3.1-py3-none-any.whl (171 kB)
+Using cached h11-0.14.0-py3-none-any.whl (58 kB)
+Using cached idna-3.7-py3-none-any.whl (66 kB)
+Using cached importlib_metadata-7.1.0-py3-none-any.whl (24 kB)
+Using cached importlib_resources-6.4.0-py3-none-any.whl (38 kB)
+Using cached ipython-8.18.1-py3-none-any.whl (808 kB)
+Using cached joblib-1.4.0-py3-none-any.whl (301 kB)
+Using cached jsonschema-4.21.1-py3-none-any.whl (85 kB)
+Using cached jupyter_client-8.6.1-py3-none-any.whl (105 kB)
+Using cached jupyter_core-5.7.2-py3-none-any.whl (28 kB)
+Using cached jupyter_server-2.14.0-py3-none-any.whl (383 kB)
+Using cached anyio-4.3.0-py3-none-any.whl (85 kB)
+Using cached jupyterlab-4.1.8-py3-none-any.whl (11.4 MB)
+Using cached jupyterlab_server-2.27.1-py3-none-any.whl (59 kB)
+Using cached jupyterlab_widgets-3.0.10-py3-none-any.whl (215 kB)
+Using cached kiwisolver-1.4.5-cp39-cp39-win_amd64.whl (56 kB)
+Using cached linkify_it_py-2.0.3-py3-none-any.whl (19 kB)
+Using cached matplotlib_inline-0.1.7-py3-none-any.whl (9.9 kB)
+Using cached mdurl-0.1.2-py3-none-any.whl (10.0 kB)
+Using cached mistune-3.0.2-py3-none-any.whl (47 kB)
+Using cached multidict-6.0.5-cp39-cp39-win_amd64.whl (28 kB)
+Using cached nbclient-0.10.0-py3-none-any.whl (25 kB)
+Using cached nbformat-5.10.4-py3-none-any.whl (78 kB)
+Using cached notebook_shim-0.2.4-py3-none-any.whl (13 kB)
+Using cached pandocfilters-1.5.1-py2.py3-none-any.whl (8.7 kB)
+Using cached prompt_toolkit-3.0.43-py3-none-any.whl (386 kB)
+Using cached pygments-2.17.2-py3-none-any.whl (1.2 MB)
+Using cached pyparsing-3.1.2-py3-none-any.whl (103 kB)
+Using cached python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+Using cached pytz-2024.1-py2.py3-none-any.whl (505 kB)
+Using cached pyzmq-26.0.2-cp39-cp39-win_amd64.whl (775 kB)
+Using cached QtPy-2.4.1-py3-none-any.whl (93 kB)
+Using cached scipy-1.13.0-cp39-cp39-win_amd64.whl (46.2 MB)
+Using cached sniffio-1.3.1-py3-none-any.whl (10 kB)
+Using cached starlette-0.37.2-py3-none-any.whl (71 kB)
+Using cached threadpoolctl-3.4.0-py3-none-any.whl (17 kB)
+Using cached tornado-6.4-cp38-abi3-win_amd64.whl (436 kB)
+Using cached traitlets-5.14.3-py3-none-any.whl (85 kB)
+Using cached tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+Using cached urllib3-2.2.1-py3-none-any.whl (121 kB)
+Using cached widgetsnbextension-4.0.10-py3-none-any.whl (2.3 MB)
+Using cached yarl-1.9.4-cp39-cp39-win_amd64.whl (76 kB)
+Using cached beautifulsoup4-4.12.3-py3-none-any.whl (147 kB)
+Using cached colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Using cached defusedxml-0.7.1-py2.py3-none-any.whl (25 kB)
+Using cached filelock-3.13.4-py3-none-any.whl (11 kB)
+Using cached jupyterlab_pygments-0.3.0-py3-none-any.whl (15 kB)
+Using cached nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
+Using cached psutil-5.9.8-cp37-abi3-win_amd64.whl (255 kB)
+Using cached tinycss2-1.3.0-py3-none-any.whl (22 kB)
+Using cached toolz-0.12.1-py3-none-any.whl (56 kB)
+Using cached argon2_cffi-23.1.0-py3-none-any.whl (15 kB)
+Using cached async_lru-2.0.4-py3-none-any.whl (6.1 kB)
+Using cached Babel-2.14.0-py3-none-any.whl (11.0 MB)
+Using cached exceptiongroup-1.2.1-py3-none-any.whl (16 kB)
+Using cached fastjsonschema-2.19.1-py3-none-any.whl (23 kB)
+Using cached jedi-0.19.1-py2.py3-none-any.whl (1.6 MB)
+Using cached json5-0.9.25-py3-none-any.whl (30 kB)
+Using cached jsonschema_specifications-2023.12.1-py3-none-any.whl (18 kB)
+Using cached jupyter_events-0.10.0-py3-none-any.whl (18 kB)
+Using cached jupyter_lsp-2.2.5-py3-none-any.whl (69 kB)
+Using cached jupyter_server_terminals-0.5.3-py3-none-any.whl (13 kB)
+Using cached overrides-7.7.0-py3-none-any.whl (17 kB)
+Using cached platformdirs-4.2.1-py3-none-any.whl (17 kB)
+Using cached prometheus_client-0.20.0-py3-none-any.whl (54 kB)
+Using cached pywin32-306-cp39-cp39-win_amd64.whl (9.3 MB)
+Using cached pywinpty-2.0.13-cp39-none-win_amd64.whl (1.4 MB)
+Using cached referencing-0.35.0-py3-none-any.whl (26 kB)
+Using cached rpds_py-0.18.0-cp39-none-win_amd64.whl (207 kB)
+Using cached Send2Trash-1.8.3-py3-none-any.whl (18 kB)
+Using cached six-1.16.0-py2.py3-none-any.whl (11 kB)
+Using cached soupsieve-2.5-py3-none-any.whl (36 kB)
+Using cached terminado-0.18.1-py3-none-any.whl (14 kB)
+Using cached tomli-2.0.1-py3-none-any.whl (12 kB)
+Using cached webencodings-0.5.1-py2.py3-none-any.whl (11 kB)
+Using cached websocket_client-1.8.0-py3-none-any.whl (58 kB)
+Using cached zipp-3.18.1-py3-none-any.whl (8.2 kB)
+Using cached decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Using cached stack_data-0.6.3-py3-none-any.whl (24 kB)
+Using cached uc_micro_py-1.0.3-py3-none-any.whl (6.2 kB)
+Using cached wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
+Using cached asttokens-2.4.1-py2.py3-none-any.whl (27 kB)
+Using cached executing-2.0.1-py2.py3-none-any.whl (24 kB)
+Using cached parso-0.8.4-py2.py3-none-any.whl (103 kB)
+Using cached python_json_logger-2.0.7-py3-none-any.whl (8.1 kB)
+Using cached rfc3986_validator-0.1.1-py2.py3-none-any.whl (4.2 kB)
+Using cached argon2_cffi_bindings-21.2.0-cp36-abi3-win_amd64.whl (30 kB)
+Using cached pure_eval-0.2.2-py3-none-any.whl (11 kB)
+Using cached rfc3339_validator-0.1.4-py2.py3-none-any.whl (3.5 kB)
+Using cached cffi-1.16.0-cp39-cp39-win_amd64.whl (181 kB)
+Using cached jsonpointer-2.4-py2.py3-none-any.whl (7.8 kB)
+Using cached webcolors-1.13-py3-none-any.whl (14 kB)
+Using cached fqdn-1.5.1-py3-none-any.whl (9.1 kB)
+Using cached isoduration-20.11.0-py3-none-any.whl (11 kB)
+Using cached uri_template-1.3.0-py3-none-any.whl (11 kB)
+Using cached arrow-1.3.0-py3-none-any.whl (66 kB)
+Using cached pycparser-2.22-py3-none-any.whl (117 kB)
+Using cached types_python_dateutil-2.9.0.20240316-py3-none-any.whl (9.7 kB)
+Installing collected packages: webencodings, wcwidth, pywin32, pytz, pydub, pure-eval, ffmpy, fastjsonschema, zipp, widgetsnbextension, websockets, websocket-client, webcolors, urllib3, uri-template, uc-micro-py, tzdata, typing-extensions, types-python-dateutil, ttach, traitlets, tornado, toolz, tomli, tinycss2, threadpoolctl, soupsieve, sniffio, six, send2trash, semantic-version, rpds-py, rfc3986-validator, pyzmq, pyyaml, pywinpty, python-multipart, python-json-logger, pyparsing, pygments, pycparser, psutil, prompt-toolkit, prometheus-client, platformdirs, Pillow, parso, pandocfilters, packaging, overrides, orjson, numpy, nest-asyncio, multidict, mistune, mdurl, markupsafe, kiwisolver, jupyterlab-widgets, jupyterlab-pygments, jsonpointer, json5, joblib, idna, h11, fsspec, frozenlist, fqdn, fonttools, filelock, executing, exceptiongroup, defusedxml, decorator, debugpy, cycler, colorama, charset-normalizer, certifi, babel, attrs, async-timeout, annotated-types, aiofiles, yarl, tqdm, torch, terminado, scipy, rfc3339-validator, requests, referencing, qtpy, python-dateutil, pydantic-core, opencv-python, matplotlib-inline, markdown-it-py, linkify-it-py, jupyter-core, jinja2, jedi, importlib-resources, importlib-metadata, httpcore, contourpy, comm, click, cffi, bleach, beautifulsoup4, async-lru, asttokens, anyio, aiosignal, uvicorn, torchvision, starlette, stack-data, scikit-learn, pydantic, pandas, mdit-py-plugins, matplotlib, jupyter-server-terminals, jupyter-client, jsonschema-specifications, huggingface-hub, httpx, arrow, argon2-cffi-bindings, aiohttp, jsonschema, isoduration, ipython, gradio-client, grad-cam, fastapi, facenet-pytorch, argon2-cffi, nbformat, ipywidgets, ipykernel, altair, qtconsole, nbclient, jupyter-events, jupyter-console, gradio, nbconvert, jupyter-server, notebook-shim, jupyterlab-server, jupyter-lsp, jupyterlab, notebook, jupyter
+Successfully installed Pillow-9.4.0 aiofiles-23.2.1 aiohttp-3.9.5 aiosignal-1.3.1 altair-5.3.0 annotated-types-0.6.0 anyio-4.3.0 argon2-cffi-23.1.0 argon2-cffi-bindings-21.2.0 arrow-1.3.0 asttokens-2.4.1 async-lru-2.0.4 async-timeout-4.0.3 attrs-23.2.0 babel-2.14.0 beautifulsoup4-4.12.3 bleach-6.1.0 certifi-2024.2.2 cffi-1.16.0 charset-normalizer-3.3.2 click-8.1.7 colorama-0.4.6 comm-0.2.2 contourpy-1.2.1 cycler-0.12.1 debugpy-1.8.1 decorator-5.1.1 defusedxml-0.7.1 exceptiongroup-1.2.1 executing-2.0.1 facenet-pytorch-2.5.2 fastapi-0.110.2 fastjsonschema-2.19.1 ffmpy-0.3.2 filelock-3.13.4 fonttools-4.51.0 fqdn-1.5.1 frozenlist-1.4.1 fsspec-2024.3.1 grad-cam-1.4.6 gradio-3.39.0 gradio-client-0.16.0 h11-0.14.0 httpcore-1.0.5 httpx-0.27.0 huggingface-hub-0.22.2 idna-3.7 importlib-metadata-7.1.0 importlib-resources-6.4.0 ipykernel-6.29.4 ipython-8.18.1 ipywidgets-8.1.2 isoduration-20.11.0 jedi-0.19.1 jinja2-3.1.3 joblib-1.4.0 json5-0.9.25 jsonpointer-2.4 jsonschema-4.21.1 jsonschema-specifications-2023.12.1 jupyter-1.0.0 jupyter-client-8.6.1 jupyter-console-6.6.3 jupyter-core-5.7.2 jupyter-events-0.10.0 jupyter-lsp-2.2.5 jupyter-server-2.14.0 jupyter-server-terminals-0.5.3 jupyterlab-4.1.8 jupyterlab-pygments-0.3.0 jupyterlab-server-2.27.1 jupyterlab-widgets-3.0.10 kiwisolver-1.4.5 linkify-it-py-2.0.3 markdown-it-py-2.2.0 markupsafe-2.1.5 matplotlib-3.8.4 matplotlib-inline-0.1.7 mdit-py-plugins-0.3.3 mdurl-0.1.2 mistune-3.0.2 multidict-6.0.5 nbclient-0.10.0 nbconvert-7.16.3 nbformat-5.10.4 nest-asyncio-1.6.0 notebook-7.1.3 notebook-shim-0.2.4 numpy-1.26.4 opencv-python-4.7.0.72 orjson-3.10.1 overrides-7.7.0 packaging-24.0 pandas-2.2.2 pandocfilters-1.5.1 parso-0.8.4 platformdirs-4.2.1 prometheus-client-0.20.0 prompt-toolkit-3.0.43 psutil-5.9.8 pure-eval-0.2.2 pycparser-2.22 pydantic-2.7.1 pydantic-core-2.18.2 pydub-0.25.1 pygments-2.17.2 pyparsing-3.1.2 python-dateutil-2.9.0.post0 python-json-logger-2.0.7 python-multipart-0.0.9 pytz-2024.1 pywin32-306 pywinpty-2.0.13 pyyaml-6.0.1 pyzmq-26.0.2 qtconsole-5.5.1 qtpy-2.4.1 referencing-0.35.0 requests-2.31.0 rfc3339-validator-0.1.4 rfc3986-validator-0.1.1 rpds-py-0.18.0 scikit-learn-1.4.2 scipy-1.13.0 semantic-version-2.10.0 send2trash-1.8.3 six-1.16.0 sniffio-1.3.1 soupsieve-2.5 stack-data-0.6.3 starlette-0.37.2 terminado-0.18.1 threadpoolctl-3.4.0 tinycss2-1.3.0 tomli-2.0.1 toolz-0.12.1 torch-1.11.0 torchvision-0.12.0 tornado-6.4 tqdm-4.66.2 traitlets-5.14.3 ttach-0.0.3 types-python-dateutil-2.9.0.20240316 typing-extensions-4.11.0 tzdata-2024.1 uc-micro-py-1.0.3 uri-template-1.3.0 urllib3-2.2.1 uvicorn-0.29.0 wcwidth-0.2.13 webcolors-1.13 webencodings-0.5.1 websocket-client-1.8.0 websockets-11.0.3 widgetsnbextension-4.0.10 yarl-1.9.4 zipp-3.18.1
+
+BITSADMIN version 3.0
+BITS administration utility.
+(C) Copyright Microsoft Corp.
+
+Transfer complete.
+Repo downloaded successfully 
+Extracting the repo ... 
+x deepfake-detection/.git/
+x deepfake-detection/.git/COMMIT_EDITMSG
+x deepfake-detection/.git/config
+x deepfake-detection/.git/description
+x deepfake-detection/.git/FETCH_HEAD
+x deepfake-detection/.git/HEAD
+x deepfake-detection/.git/hooks/
+x deepfake-detection/.git/hooks/applypatch-msg.sample
+x deepfake-detection/.git/hooks/commit-msg.sample
+x deepfake-detection/.git/hooks/fsmonitor-watchman.sample
+x deepfake-detection/.git/hooks/post-update.sample
+x deepfake-detection/.git/hooks/pre-applypatch.sample
+x deepfake-detection/.git/hooks/pre-commit.sample
+x deepfake-detection/.git/hooks/pre-merge-commit.sample
+x deepfake-detection/.git/hooks/prepare-commit-msg.sample
+x deepfake-detection/.git/hooks/pre-push.sample
+x deepfake-detection/.git/hooks/pre-rebase.sample
+x deepfake-detection/.git/hooks/pre-receive.sample
+x deepfake-detection/.git/hooks/push-to-checkout.sample
+x deepfake-detection/.git/hooks/update.sample
+x deepfake-detection/.git/index
+x deepfake-detection/.git/info/
+x deepfake-detection/.git/info/exclude
+x deepfake-detection/.git/logs/
+x deepfake-detection/.git/logs/HEAD
+x deepfake-detection/.git/logs/refs/
+x deepfake-detection/.git/logs/refs/heads/
+x deepfake-detection/.git/logs/refs/heads/main
+x deepfake-detection/.git/logs/refs/remotes/
+x deepfake-detection/.git/logs/refs/remotes/origin/
+x deepfake-detection/.git/logs/refs/remotes/origin/HEAD
+x deepfake-detection/.git/logs/refs/remotes/origin/main
+x deepfake-detection/.git/objects/
+x deepfake-detection/.git/objects/03/
+x deepfake-detection/.git/objects/03/32b2498294c05e52c9b4f03d29387e39505643
+x deepfake-detection/.git/objects/0d/
+x deepfake-detection/.git/objects/0d/556c5a0f835ea761af5156305d74cc08ff9256
+x deepfake-detection/.git/objects/12/
+x deepfake-detection/.git/objects/12/d220d518654028fe590829ec1b63b6e5968114
+x deepfake-detection/.git/objects/1c/
+x deepfake-detection/.git/objects/1c/fcf360c8a378142c19ec2e13a4e9cf69e41a29
+x deepfake-detection/.git/objects/1d/
+x deepfake-detection/.git/objects/1d/5990ecef98c86a3f9f3365c0e62697f865f0a9
+x deepfake-detection/.git/objects/1d/688da137b857b24cd19dea2bd6bd3827b61998
+x deepfake-detection/.git/objects/1d/a4aedce6c1ce15860d7d8569afcc65d15f4178
+x deepfake-detection/.git/objects/28/
+x deepfake-detection/.git/objects/28/f897632afbac45d7c06f498985435400980345
+x deepfake-detection/.git/objects/2e/
+x deepfake-detection/.git/objects/2e/8b0b569dbe0712031c1e82327d55281923e503
+x deepfake-detection/.git/objects/35/
+x deepfake-detection/.git/objects/35/12a2aaead2199f1a1237572be886bcc88cb7e7
+x deepfake-detection/.git/objects/39/
+x deepfake-detection/.git/objects/39/69eabbd61834a7cefd5f874831d6c2a8a87394
+x deepfake-detection/.git/objects/3a/
+x deepfake-detection/.git/objects/3a/56f89bf210e37b5be5c2ef7ecddee7a79acc0e
+x deepfake-detection/.git/objects/47/
+x deepfake-detection/.git/objects/47/c585cc0453f812a59a1be30c15956947207e91
+x deepfake-detection/.git/objects/57/
+x deepfake-detection/.git/objects/57/cadc19b884ea76e17181d264738e2de85f9236
+x deepfake-detection/.git/objects/64/
+x deepfake-detection/.git/objects/64/2065dee1501a5d0018b86c4bf93bc218dbd60c
+x deepfake-detection/.git/objects/68/
+x deepfake-detection/.git/objects/68/1d964ce9e8fda5eb69007b855e5e59def8799b
+x deepfake-detection/.git/objects/6a/
+x deepfake-detection/.git/objects/6a/45ce6ee3bbbc3941b7984f9aedac1144fba8f8
+x deepfake-detection/.git/objects/7d/
+x deepfake-detection/.git/objects/7d/b1ccfe75c22db013c5281daeea06dd0cc55868
+x deepfake-detection/.git/objects/93/
+x deepfake-detection/.git/objects/93/abbbac5472b858532af8caddd11d40eff4409b
+x deepfake-detection/.git/objects/99/
+x deepfake-detection/.git/objects/99/513d9d933b31262327d088a25f0532880e4d77
+x deepfake-detection/.git/objects/a1/
+x deepfake-detection/.git/objects/a1/1759ebc198ec4e4365ac6d411193476a0a335e
+x deepfake-detection/.git/objects/a8/
+x deepfake-detection/.git/objects/a8/83c528b711092ea739c1ece555287e301561bf
+x deepfake-detection/.git/objects/b7/
+x deepfake-detection/.git/objects/b7/7895a6e6852845b06a59dad2d36f582d4c8c55
+x deepfake-detection/.git/objects/b8/
+x deepfake-detection/.git/objects/b8/a156ac7c30ca489f25b1a39ced134fd1570591
+x deepfake-detection/.git/objects/b9/
+x deepfake-detection/.git/objects/b9/c17fc9475b89e047c731e82f66bc7d8b8d483f
+x deepfake-detection/.git/objects/bd/
+x deepfake-detection/.git/objects/bd/77ed07121f0077c891d6aac519bf4a9e350884
+x deepfake-detection/.git/objects/dd/
+x deepfake-detection/.git/objects/dd/46894f4775782a561d5ff48d598832473d6e62
+x deepfake-detection/.git/objects/e2/
+x deepfake-detection/.git/objects/e2/7cf9cd63f61fb64864499b6ab2f4e98b2906f3
+x deepfake-detection/.git/objects/e6/
+x deepfake-detection/.git/objects/e6/d1fb5878f582ef8d6870b2e1e250dc7ca5f619
+x deepfake-detection/.git/objects/f5/
+x deepfake-detection/.git/objects/f5/8447cff0af072dfa74f947a4798cfb8ec60823
+x deepfake-detection/.git/objects/f5/90c48bc41c567f9e874a361a71f22e803d58e5
+x deepfake-detection/.git/objects/info/
+x deepfake-detection/.git/objects/pack/
+x deepfake-detection/.git/objects/pack/pack-f283cbaa7e214742036a1d910133aebd68261fdc.idx
+x deepfake-detection/.git/objects/pack/pack-f283cbaa7e214742036a1d910133aebd68261fdc.pack
+x deepfake-detection/.git/packed-refs
+x deepfake-detection/.git/refs/
+x deepfake-detection/.git/refs/heads/
+x deepfake-detection/.git/refs/heads/main
+x deepfake-detection/.git/refs/remotes/
+x deepfake-detection/.git/refs/remotes/origin/
+x deepfake-detection/.git/refs/remotes/origin/HEAD
+x deepfake-detection/.git/refs/remotes/origin/main
+x deepfake-detection/.git/refs/tags/
+x deepfake-detection/.git/refs/tags/v1.0.0
+x deepfake-detection/.gitignore
+x deepfake-detection/Deepfake_detection.ipynb
+x deepfake-detection/examples/
+x deepfake-detection/examples/fake_dot_csv.jpeg
+x deepfake-detection/examples/fake_frame_1.png
+x deepfake-detection/examples/fake_frame_10.png
+x deepfake-detection/examples/fake_frame_2.png
+x deepfake-detection/examples/fake_frame_3.png
+x deepfake-detection/examples/fake_frame_4.png
+x deepfake-detection/examples/fake_frame_5.png
+x deepfake-detection/examples/fake_frame_6.png
+x deepfake-detection/examples/fake_frame_7.png
+x deepfake-detection/examples/fake_frame_8.png
+x deepfake-detection/examples/fake_frame_9.png
+x deepfake-detection/examples/real_frame_1.png
+x deepfake-detection/examples/real_frame_13.png
+x deepfake-detection/examples/real_frame_16.png
+x deepfake-detection/examples/real_frame_19.png
+x deepfake-detection/examples/real_frame_20.png
+x deepfake-detection/examples/real_frame_3.png
+x deepfake-detection/examples/real_frame_8.png
+x deepfake-detection/examples/real_frame_9.png
+x deepfake-detection/examples/real_lucia.jpeg
+x deepfake-detection/examples/real_mercedes.jpeg
+x deepfake-detection/kit_installer.zip
+x deepfake-detection/LICENSE
+x deepfake-detection/README.md
+x deepfake-detection/requirements.txt
+Downloading M source ...  
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0  269M    0  2831    0     0   3352      0 23:24:07 --:--:-- 23:24:07  3366  0  269M    0  684k    0     0   372k      0  0:12:20  0:00:01  0:12:19  373k  3  269M    3 8783k    0     0  3096k      0  0:01:29  0:00:02  0:01:27 3099k  7  269M    7 19.6M    0     0  5252k      0  0:00:52  0:00:03  0:00:49 5255k 10  269M   10 29.4M    0     0  6233k      0  0:00:44  0:00:04  0:00:40 6237k 15  269M   15 40.5M    0     0  7121k      0  0:00:38  0:00:05  0:00:33 8323k 19  269M   19 51.7M    0     0  7753k      0  0:00:35  0:00:06  0:00:29 10.2M 22  269M   22 60.4M    0     0  7901k      0  0:00:34  0:00:07  0:00:27 10.3M 26  269M   26 71.6M    0     0  8299k      0  0:00:33  0:00:08  0:00:25 10.3M 30  269M   30 82.5M    0     0  8596k      0  0:00:32  0:00:09  0:00:23 10.6M 34  269M   34 93.7M    0     0  8856k      0  0:00:31  0:00:10  0:00:21 10.6M 39  269M   39  105M    0     0  9075k      0  0:00:30  0:00:11  0:00:19 10.6M 42  269M   42  115M    0     0  9232k      0  0:00:29  0:00:12  0:00:17 11.0M 46  269M   46  126M    0     0  9364k      0  0:00:29  0:00:13  0:00:16 10.9M 50  269M   50  135M    0     0  9325k      0  0:00:29  0:00:14  0:00:15 10.5M 54  269M   54  146M    0     0  9455k      0  0:00:29  0:00:15  0:00:14 10.5M 58  269M   58  157M    0     0  9570k      0  0:00:28  0:00:16  0:00:12 10.5M 62  269M   62  168M    0     0  9671k      0  0:00:28  0:00:17  0:00:11 10.5M 66  269M   66  179M    0     0  9751k      0  0:00:28  0:00:18  0:00:10 10.5M 70  269M   70  190M    0     0  9820k      0  0:00:28  0:00:19  0:00:09 11.0M 74  269M   74  201M    0     0  9894k      0  0:00:27  0:00:20  0:00:07 11.0M 78  269M   78  212M    0     0  9962k      0  0:00:27  0:00:21  0:00:06 11.0M 84  269M   84  226M    0     0  9786k      0  0:00:28  0:00:23  0:00:05  9.8M 84  269M   84  228M    0     0  9822k      0  0:00:28  0:00:23  0:00:05  9.8M 90  269M   90  242M    0     0  9751k      0  0:00:28  0:00:25  0:00:03 9507k 91  269M   91  247M    0     0  9810k      0  0:00:28  0:00:25  0:00:03 9460k 96  269M   96  260M    0     0  9935k      0  0:00:27  0:00:26  0:00:01 9819k100  269M  100  269M    0     0  9977k      0  0:00:27  0:00:27 --:--:-- 10.8M
+Model weights/checkpoint file downloaded from source 
+END TIME : 23:25:24.30 
+[I 2024-04-27 23:36:13.283 ServerApp] Extension package jupyter_lsp took 0.1755s to import
+[I 2024-04-27 23:36:13.757 ServerApp] Extension package jupyter_server_terminals took 0.4729s to import
+[I 2024-04-27 23:36:17.076 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-04-27 23:36:17.087 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-04-27 23:36:17.100 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-04-27 23:36:17.112 ServerApp] notebook | extension was successfully linked.
+[I 2024-04-27 23:36:19.411 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-04-27 23:36:19.484 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-04-27 23:36:19.491 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-04-27 23:36:19.493 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-04-27 23:36:19.520 LabApp] JupyterLab extension loaded from C:\kandikits\deepfake-detection\deepfake-detection-env\lib\site-packages\jupyterlab
+[I 2024-04-27 23:36:19.520 LabApp] JupyterLab application directory is C:\kandikits\deepfake-detection\deepfake-detection-env\share\jupyter\lab
+[I 2024-04-27 23:36:19.521 LabApp] Extension Manager is 'pypi'.
+[I 2024-04-27 23:36:19.593 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-04-27 23:36:19.606 ServerApp] notebook | extension was successfully loaded.
+[I 2024-04-27 23:36:19.607 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-04-27 23:36:19.609 ServerApp] Serving notebooks from local directory: C:\kandikits\deepfake-detection\deepfake-detection
+[I 2024-04-27 23:36:19.609 ServerApp] Jupyter Server 2.14.0 is running at:
+[I 2024-04-27 23:36:19.609 ServerApp] http://localhost:8889/tree?token=fc700b630a85f3cab4c6858f56639e9f36d61cb2cb5e069e
+[I 2024-04-27 23:36:19.609 ServerApp]     http://127.0.0.1:8889/tree?token=fc700b630a85f3cab4c6858f56639e9f36d61cb2cb5e069e
+[I 2024-04-27 23:36:19.610 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-04-27 23:36:20.020 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///C:/Users/Home/AppData/Roaming/jupyter/runtime/jpserver-5228-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/tree?token=fc700b630a85f3cab4c6858f56639e9f36d61cb2cb5e069e
+        http://127.0.0.1:8889/tree?token=fc700b630a85f3cab4c6858f56639e9f36d61cb2cb5e069e
+[I 2024-04-27 23:36:22.558 JupyterNotebookApp] 302 GET /tree/Deepfake_detection.ipynb?token=[secret] (54efae7f7b2647958157226ec9485596@::1) 18.95ms
+[W 2024-04-27 23:36:42.013 ServerApp] Notebook Deepfake_detection.ipynb is not trusted
+[I 2024-04-27 23:36:43.938 ServerApp] Kernel started: 46232da7-6f7f-4d1d-8281-e5beb100f305
+[I 2024-04-27 23:36:49.474 ServerApp] Connecting to kernel 46232da7-6f7f-4d1d-8281-e5beb100f305.
+[I 2024-04-27 23:36:53.989 ServerApp] Connecting to kernel 46232da7-6f7f-4d1d-8281-e5beb100f305.
+[I 2024-04-27 23:36:55.943 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-04-27 23:38:42.545 ServerApp] Saving file at /Deepfake_detection.ipynb
